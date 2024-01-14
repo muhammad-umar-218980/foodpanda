@@ -263,13 +263,9 @@ animation: cartAnimation 2s ease infinite;
   vertical-align: middle;
   transition: all 0.1s ease;
   cursor: pointer;
-}
-
-
-
-.fa-cart-shopping{
   animation: cartAnimation 2s ease infinite;
 }
+
 
 .div4 i:hover {
  transform: scale(1.5);
